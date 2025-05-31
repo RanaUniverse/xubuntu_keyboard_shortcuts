@@ -1,0 +1,10 @@
+
+
+This different files.sh are used with different keyboard shortcut.
+
+This screenshots will be saved as mentioned in the .sh scripts files.
+
+mkdir -pv ~/Pictures/screenshots
+
+First i will Plan to store this images in the ~/Pictures/screenshots folder.
+
